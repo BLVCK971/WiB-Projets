@@ -1,0 +1,20 @@
+- Amélioration de ypepin.com
+  - Rajout du projet Rubiks Cube
+  - Rajout du projet Piano
+  - Rajout des Smooth Transition
+  - Finalisation et Rajout du projet Speech (commande vocale)
+  - ChatBot/Node.JS
+- Construction AirDroneMach avec Allan et Eliott
+- Domotique
+  - Architecture
+    - Vitre-miroir
+  - Parc durable
+    - Angles panneaux solaires adapté au soleil
+    - consommation Ah
+    - Ressources (Batteries, GE, EDF)
+  - SuperOrdinateur domotique
+    - IA vocale
+    - Analyse de données statistiques,
+    - Surveillance
+    - Gestion LED
+    - Intra-net
