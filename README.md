@@ -1,6 +1,7 @@
 # ALL PROJECTS
 
 ## Amélioration de WI - BASH
+
 - Trouver une salle pour Wi-Bash
   - Entrée et gestion en RFiD
   - Wi-Fi Perso
@@ -10,8 +11,8 @@
     - Station de soudure/AirChaud
     - Utilisation PC remis en état
 
-
 ## Projets en Cours
+
 - Construction AirBashOne
   - Reconnaissance personnes en Danger
   - Modélisation de la Fac 3D Photogrammétrie
@@ -28,6 +29,7 @@
 - Jeu sur Unreal Engine 4 avec Thibault
 
 ## Quotidien à mettre en place
+
 - Events
   - Formation Interne :
     - IA
@@ -48,3 +50,25 @@
 - Une gestion GitHub
 - Session Communication vocale à distance
 
+# Projets Yoël
+
+- Amélioration de ypepin.com
+  - Rajout du projet Rubiks Cube
+  - Rajout du projet Piano
+  - Rajout des Smooth Transition
+  - Finalisation et Rajout du projet Speech (commande vocale)
+  - ChatBot/Node.JS
+- Construction AirDroneMach avec Allan et Eliott
+- Domotique
+  - Architecture
+    - Vitre-miroir
+  - Parc durable
+    - Angles panneaux solaires adapté au soleil
+    - consommation Ah
+    - Ressources (Batteries, GE, EDF)
+  - SuperOrdinateur domotique
+    - IA vocale
+    - Analyse de données statistiques,
+    - Surveillance
+    - Gestion LED
+    - Intra-net
