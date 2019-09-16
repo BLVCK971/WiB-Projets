@@ -2,41 +2,40 @@
 
 ## Amélioration de WI - BASH
 
-- Trouver une salle pour Wi-Bash
-  - Entrée et gestion en RFiD
-  - Wi-Fi Perso
-  - Remise en état HardWare continuel et constant
+- Trouver une salle pour Wi-Bash (Bureau WIB)
+  - Entrée et gestion en RFiD (Yoël)
+  - Wi-Fi Perso (Yoël)
+  - Remise en état HardWare continuel et constant (WIB)
   - Tout le matériel :
-    - Imprimante 3D
-    - Station de soudure/AirChaud
-    - Utilisation PC remis en état
+    - Imprimante 3D (Allan)
+    - Station de soudure/AirChaud (Yoël/Allan)
+    - Utilisation PC remis en état (WIB)
 
 ## Projets en Cours
 
-- Construction AirBashOne
-  - Reconnaissance personnes en Danger
-  - Modélisation de la Fac 3D Photogrammétrie
-- Construction CNC
-- Monter nos propres circuits électrique
-- WaterBash
+- Construction AirBashOne (Thibault/Allan/Yoël)
+  - Reconnaissance personnes en Danger (Yoël)
+  - Modélisation de la Fac 3D Photogrammétrie (Pute)
+- Construction CNC (Allan)
+- Monter nos propres circuits électrique (Allan)
+- WaterBash (MrClergue/WIB)
   - Modélisation des fonds marin avec Mr Clergue pour département Maritime
-- Amélioration de wi-bash.fr
-  - Mise en place d'une plate-forme de Gestion de projet en ligne (Taiga)
-  - Mise en place plateforme de discussion (MatterMost)
-  - Listing Membres et leurs compétences voir un lien vers un CV
-  - Plateforme d'inscription avec mailing actif pour des séances etc
-- Application Android/iOS Wi-Bash
-- Jeu sur Unreal Engine 4 avec Thibault
+- Amélioration de wi-bash.fr (WIB)
+  - Mise en place d'une plate-forme de Gestion de projet en ligne (Taiga) (Yoël)
+  - Mise en place plateforme de discussion (MatterMost) (Yoël)
+  - Listing Membres et leurs compétences voir un lien vers un CV (Yoël)
+- Application Android/iOS Wi-Bash (Yoël/Anthony/Boris)
+- Jeu sur Unreal Engine 4 (Yoël/Thibault)
 
 ## Quotidien à mettre en place
 
 - Events
   - Formation Interne :
-    - IA
-    - Robotique
-    - Electronique
-    - HardWare
-    - Sécurité
+    - IA (MrPagé/Boris)
+    - Robotique (MrRobinel/Allan)
+    - Electronique(Allan)
+    - HardWare(WIB)
+    - Sécurité(Yoël)
   - Formation Externe (Public de tout âge) :
     - Word/Excel
     - Mailing
@@ -44,11 +43,16 @@
     - Vulgarisation de l'outil informatique pour les personnes agées
     - Eveil de la digitalisation
   - Event Annuel
-    - CodingWebLive
-    - Hackpéro annuel
-- Des sessions de CodingGame
-- Une gestion GitHub
+    - CodingWebLive (Yoël)
+    - Hackpéro annuel (Yoël)
+- Des sessions de CodingGame (WIB)
+- Une gestion GitHub (WIB)
 - Session Communication vocale à distance
+
+# From News Members
+
+- Nicolas Gouwy
+  - Modèle de chaise roulante MDPH avec module montable et démontable pour mobilité électrique
 
 # Projets Yoël
 
